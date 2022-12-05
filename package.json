@@ -26,8 +26,8 @@
   "author": "OtotheA <oscar@otothea.com>",
   "license": "MIT",
   "dependencies": {
-    "body-parser": "1.17.2",
-    "express": "4.15.3",
+    "body-parser": "1.19.2",
+    "express": "4.17.3",
     "express-session": "1.15.3",
     "express-sslify": "1.2.0"
   },
